@@ -1,0 +1,28 @@
+{
+  "name": "ionic-plugin-deeplinks",
+  "version": "1.0.20",
+  "description": "Hardcoded universal and deep linking for Entel Personas App",
+  "cordova": {
+    "id": "ionic-plugin-deeplinks",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroiXan/Plugin-Intent-Handler.git"
+  },
+  "keywords": [
+    "universallinks",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CroiXan/Plugin-Intent-Handler/issues"
+  },
+  "homepage": "https://github.com/CroiXan/Plugin-Intent-Handler#readme"
+}
